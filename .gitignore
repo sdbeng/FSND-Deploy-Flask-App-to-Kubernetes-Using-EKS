@@ -17,6 +17,7 @@ _mailinglist
 docs/_build/
 __pycache__
 my_readme.md
+foo
 
 # Coverage reports
 htmlcov/
