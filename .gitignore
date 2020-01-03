@@ -17,7 +17,7 @@ _mailinglist
 docs/_build/
 __pycache__
 my_readme.md
-foo
+aws-auth-patch_bck.yml
 
 # Coverage reports
 htmlcov/
